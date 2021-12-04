@@ -1,0 +1,10 @@
+Entropy in Chess 
+  
+How to actually make a chess board and make calculations:
+
+This is documentation for a way to implement chess which has some very
+nice features like detecting draws and stalemates.
+https://pypi.org/project/chess/
+https://python-chess.readthedocs.io/en/latest/
+
+Portable Game Notation in Chess
