@@ -14,5 +14,7 @@ General Git Commands to Know
 'git pull' -- updates your files from the github repository
 
 'git add fileName' -- adds the specified file to be sent out to repository (also need to do this if you update something in a file)
+'git rm fileName' -- queues the removal of specified file(s)
+
 'git commit -m \"notes on what you did\"' -- commits changes you want to send
-'git push- -- sends committed changes to repository
+'git push' -- sends committed changes to repository
