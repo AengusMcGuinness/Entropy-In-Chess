@@ -12,11 +12,10 @@ def main():
         legalMoves = list(board.legal_moves)
         numLegalMoves = len(list(board.legal_moves))
         gameMoves.append(numLegalMoves)
+        f = open(f"{moveNum}gameState.svg", "x")
+        f.write(chess.svg.board(board, size = 350))
+        f.close()
         board.push(move)
-        print(numLegalMoves, "\n")
-        #f = open(f"{moveNum}gameState.svg", "x")
-        #f.write(chess.svg.board(board, size = 350))
-        #f.close()
-        
+        print(f"{moveNum}gameState.svg", numLegalMoves)        
 
 main()
