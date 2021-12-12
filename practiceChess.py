@@ -12,10 +12,14 @@ def main():
         legalMoves = list(board.legal_moves)
         numLegalMoves = len(list(board.legal_moves))
         gameMoves.append(numLegalMoves)
-        f = open(f"{moveNum}gameState.svg", "x")
-        f.write(chess.svg.board(board, size = 350))
-        f.close()
+        #f = open(f"{moveNum}gameState.svg", "x")
+        #f.write(chess.svg.board(board, size = 350))
+        #f.close()
         board.push(move)
-        print(f"{moveNum}gameState.svg", numLegalMoves)        
-
+        if moveNum % 2:
+            print(f"{moveNum}gameState.svg", numLegalMoves, " Black")
+        else:
+            print(f"{moveNum}gameState.svg", numLegalMoves, " White")
+            
+            
 main()
