@@ -8,3 +8,11 @@ https://pypi.org/project/chess/
 https://python-chess.readthedocs.io/en/latest/
 
 Portable Game Notation in Chess
+
+
+General Git Commands to Know
+'git pull' -- updates your files from the github repository
+
+'git add fileName' -- adds the specified file to be sent out to repository (also need to do this if you update something in a file)
+'git commit -m \"notes on what you did\"' -- commits changes you want to send
+'git push- -- sends committed changes to repository
