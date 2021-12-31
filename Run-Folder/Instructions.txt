@@ -1,0 +1,9 @@
+USE THIS DIRECTORY SO YOU DON'T MAKE YOUR MAIN DIRECTORY IMPOSSIBLE TO NAVIGATE
+
+Chess-Entropy.py
+python3 Chess-Entropy.py "FILENAME(S)" or `ls *.pgn`
+Chess-Entropy.py is a python file and can run on however many pgn files you want. You need to use individual games and the FILES MUST BE IN THE SAME DIRECTORY as Chess-Entropy.py. You can write our each filename however you can just use `ls *.pgn` to use all od the PGNs in the directory. This program writes a graph pgn and makes a data file.
+
+PGN-sePerator.py
+python3 PGN-Seperator.py "FILENAME"
+Give it a congolomeration of PGN files and it will split them.
