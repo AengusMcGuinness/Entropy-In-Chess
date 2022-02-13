@@ -1,0 +1,8 @@
+Game 1 and File Name wcup21-game104
+Player: Black Move Number: 0 Move: g8f6 Piece: None Number of Better Moves: 2 Entropy: 1.0 Conditional Entropy: 3.0 Joint Entropy: 1.5
+Player: Black Move Number: 1 Move: d7d5 Piece: None Number of Better Moves: 20 Entropy: 4.321928094887363 Conditional Entropy: 90.76048999263465 Joint Entropy: 4.538024499631731
+Player: Black Move Number: 2 Move: c7c6 Piece: None Number of Better Moves: 12 Entropy: 3.584962500721156 Conditional Entropy: 100.37895002019242 Joint Entropy: 1.1061403646885013
+Player: Black Move Number: 3 Move: c8f5 Piece: None Number of Better Moves: 15 Entropy: 3.906890595608518 Conditional Entropy: 128.92738965508107 Joint Entropy: 0.9871663507506581
+Player: Black Move Number: 4 Move: e7e6 Piece: None Number of Better Moves: 21 Entropy: 4.39231742277876 Conditional Entropy: 162.51574464281424 Joint Entropy: 0.9241540019131368
+Player: Black Move Number: 5 Move: f5e4 Piece: None Number of Better Moves: 2 Entropy: 1.0 Conditional Entropy: 4.0 Joint Entropy: 2.0
+Player: Black Move Number: 6 Move: e4g6 Piece: None Number of Better Moves: 2 Entropy: 1.0 Conditional Entropy: 4.0 Joint Entropy: 2.0
